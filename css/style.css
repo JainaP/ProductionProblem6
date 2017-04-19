@@ -35,14 +35,10 @@
   color: #fff;
   text-decoration: none;
 }
- 
-
 #onpage a 
 {
-
   text-decoration: underline overline;
 }
-
 #sidebar
 {
   position:fixed;
